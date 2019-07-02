@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\firevolt\source\repos\pw\pw\source.cpp(14): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\firevolt\source\repos\pw\pw\source.cpp(40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\firevolt\source\repos\pw\pw\source.cpp(53): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\firevolt\source\repos\pw\pw\source.cpp(57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\firevolt\source\repos\pw\pw\source.cpp(60): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\firevolt\source\repos\pw\pw\source.cpp(61): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+  Pw.vcxproj -> C:\Users\FIREVOLT\source\repos\Pw\x64\Debug\Pw.exe
